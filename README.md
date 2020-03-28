@@ -1,2 +1,2 @@
 # js-map-analyzer
-Map Analyzer Assignment
+Map Analyzer Assignment for CS10
